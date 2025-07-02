@@ -38,14 +38,9 @@ The aim of this project is to create a system that can recognize hand gestures u
 - 10 different gestures performed by 10 subjects (total of 10x10 gesture folders)
 - Near-infrared images captured using the Leap Motion sensor
 
-### 📂 Dataset Structure:
-/00/
-├── 01_palm/
-├── 02_l/
-├── ...
-/01/
-├── 01_palm/
-├── ...
+### 📂 Dataset Link:
+
+https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
 ---
 
